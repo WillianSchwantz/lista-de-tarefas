@@ -1,9 +1,5 @@
 # Lista de Tarefas
 
-Bem-vindo à Lista de Tarefas, um aplicativo simples para gerenciar suas tarefas diárias de forma eficiente!
-
-## Sobre o Projeto
-
 Este projeto é uma aplicação básica de lista de tarefas desenvolvida em PHP e MySQL. Ele permite que os usuários adicionem, visualizem e concluam tarefas diretamente do navegador.
 
 ## Como Usar
