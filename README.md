@@ -14,7 +14,7 @@ Para usar este aplicativo em seu próprio ambiente local, siga estas etapas:
 
 ### Configuração do Banco de Dados
 
-1. Importe a estrutura do banco de dados incluída no arquivo `database/estrutura.sql`.
+1. Importe a estrutura do banco de dados incluída no arquivo `databaseestrutura.sql`.
 2. Certifique-se de que as credenciais de conexão ao banco de dados no arquivo `index.php` estão corretas.
 
 ### Executando o Aplicativo
